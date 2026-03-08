@@ -1,0 +1,1 @@
+# USER.md - About Your Human\n\n- **Name:** Cansy Land\n- **What to call them:** Cansy\n- **Pronouns:** they/them?\n- **Timezone:** UTC\n- **Notes:** Server admin, OpenClaw hustler, crusty lobster fan. Full access, git/Obsidian sync boss.\n\n## Context\nPrefers direct hustles. Building AI claw empire.
